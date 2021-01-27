@@ -1,4 +1,9 @@
 ### Hi there 👋
+#### The languages I use:
+<img src="https://wakatime.com/share/@psy667/fdb72e8e-44b9-44e2-8999-3f012700c113.svg" width="500" />
+
+#### My Codewars stats
+![codewars](https://www.codewars.com/users/psy667/badges/large)
 
 <!--
 **psy667/psy667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
