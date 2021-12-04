@@ -1,5 +1,10 @@
 ### Hi there 👋
+I am a full-stack TypeScript Developer.
 
+- 🔭 I’m currently working on a digital platform that facilitates the tokenization of assets and services.
+- 🌱 I’m currently learning computer architecture, system design, and backend development
+- 💬 Ask me about web front-end, NodeJS, blockchain.
+- 📫 How to reach me: Telegram: [@psy667](https://t.me/psy667)
 <!--
 **psy667/psy667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
