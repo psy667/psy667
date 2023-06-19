@@ -1,5 +1,5 @@
-23 y.o. full-stack TypeScript Developer  
-❤️ Kotlin  
+24 y.o. full-stack TypeScript Developer  
+Passionate about creating innovative tech for a better world  
 Telegram: [@psy667](https://t.me/psy667). 
  
 ![](https://komarev.com/ghpvc/?username=psy667&label=%E2%9C%8C%EF%B8%8F&style=flat-square&color=gray)
